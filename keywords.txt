@@ -1,0 +1,4 @@
+navg_init   KEYWORD2
+gyro_init   KEYWORD2
+flash_init   KEYWORD2
+comm_init   KEYWORD2
